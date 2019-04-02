@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "//sean103.github.io/ToDoList/Desktop/react%20Todolist/list/build/static/js/runtime~main.19983a5f.js"
   },
   {
-    "revision": "3df41dda12e694b82bb3",
+    "revision": "5b32ec5f07b89fc039d0",
     "url": "//sean103.github.io/ToDoList/Desktop/react%20Todolist/list/build/static/js/main.e98ddcad.chunk.js"
   },
   {
@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "//sean103.github.io/ToDoList/Desktop/react%20Todolist/list/build/static/js/2.2d717d87.chunk.js"
   },
   {
-    "revision": "3df41dda12e694b82bb3",
-    "url": "//sean103.github.io/ToDoList/Desktop/react%20Todolist/list/build/static/css/main.61eb07e0.chunk.css"
+    "revision": "5b32ec5f07b89fc039d0",
+    "url": "//sean103.github.io/ToDoList/Desktop/react%20Todolist/list/build/static/css/main.c6b42b17.chunk.css"
   },
   {
     "revision": "fe31995454334c8ed5b0",
     "url": "//sean103.github.io/ToDoList/Desktop/react%20Todolist/list/build/static/css/2.fb85d991.chunk.css"
   },
   {
-    "revision": "285546299d8514d1d3e22555bb0297ed",
+    "revision": "c77d00c1fdaf85124d443f5db03ab164",
     "url": "//sean103.github.io/ToDoList/Desktop/react%20Todolist/list/build/index.html"
   }
 ];
