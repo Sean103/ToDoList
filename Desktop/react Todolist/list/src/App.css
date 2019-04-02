@@ -8,10 +8,14 @@
   min-height: 20em;
   min-width: 32em;
   box-shadow: 0 0 1em hsla(0,0%,0%,0.15);
+  background-image:url("./1.jpg");
+  background-size: 512px,0px;
+  
 }
 
 .App > .todoList> li:nth-child(odd){
-  background: #eee;
+  background:transparent;
+  
 }
 .App > .todoList> li:nth-child(even){
   background: transparent;
